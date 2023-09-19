@@ -11,13 +11,13 @@ public class HW2 {
         System.out.println("To find the area of a rectangle in double");
         System.out.println();
         System.out.println("Enter the first side of rectangle");
-        Double y nextDouble();
+        Double y = myObj.nextDouble();
         System.out.println();
         System.out.println("Enter the remaining side measurement");
-        Double x nextDouble();
+        Double x = myObj.nextDouble();
         System.out.println();
 
-        double area = y*x
+        double area = y*x ;
         System.out.println(area);
 
           
